@@ -1,4 +1,3 @@
-// BlockReceipt.js
 let obj = JSON.parse($response.body);
 
 if (obj && obj.status) {
